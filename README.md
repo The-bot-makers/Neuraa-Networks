@@ -2,7 +2,6 @@
 <br>
 
 ##What is this?
-
 This repository is a collection of sorted neural networks. It is licensed under the apache 2.0 licence, so use the networks freely, but to redistribute you must make major edits and mension them. 
 <br>
 
