@@ -1,0 +1,1 @@
+This neural network predicts whether the chess position is an open or locked position. Run the file 'Test Code.py' with tensorflow, chess and numpy installed for it to make predictions based on the fen you give.
