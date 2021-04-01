@@ -1,6 +1,7 @@
 import tensorflow as tf
 import numpy as np
 import chess
+import time
 
 #Loading the saved model
 model=tf.keras.models.load_model('FullModel')
@@ -49,4 +50,5 @@ probs=probmodel(np.array([numreprgen(reprgener(testfen))]))
 
 #Printing the result
 print(np.argmax(probs[0]))
-print('0 means fully open while 4 means fully locked. 2 means semi-locked. 1 and 3 can also come as results.')
+print('0 means fully open while 4 means fully locked. 2 means semi-locked. 1 and 3 can also come as results. Terminating code in 30 seconds.')
+time.sleep(30)
