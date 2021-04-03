@@ -2,5 +2,7 @@ This neural network predicts whether the chess position is an open or locked pos
 
 ## Specifications:
 epochs:200
+<br>
 samples:200
+<br>
 type:CNN(convolutional neural network)(without pooling)
