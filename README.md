@@ -2,7 +2,7 @@
 
 ## What is this?
 
-This repository is a collection of sorted neural networks. It is licensed under the BSD 3-Clause "New" or "Revised" License (see [license.txt file](https://github.com/The-bot-makers/Neural-Networks/blob/master/LICENSE)), so use the networks freely, but to redistribute you must make major edits and mention them. Also credits must be given to the authors.
+This repository is a collection of sorted neural networks. It is licensed under the BSD 3-Clause "New" or "Revised" License (see [LICENSE file](https://github.com/The-bot-makers/Neural-Networks/blob/master/LICENSE)), so use the networks freely, but to redistribute you must make major edits and mention them. Also credits must be given to the authors.
 
 ## How do I use these?
 
@@ -11,3 +11,6 @@ The models given are [tensorflow](https://www.tensorflow.org/) models. In each n
 ## Specifications
 
 The models were trained on an intel I7 7th generation AVX2 processor. Number of samples and epochs are different for each network and are mensioned in the readme.txt of each network. Type of neural network is also mensioned in the same. Activation function of the networks is relu.
+
+## I want my own networks!
+You can see the [tensorflow quickstart](https://www.tensorflow.org/tutorials/quickstart/beginner) to learn tensorflow, and use the resources given in this repo. The DatasetMaker.py helps you to make a dataset, NNMaker.py is a neural networ maker template, and once your network is made, you can take help from any TestCode.py from any network in this repo to make the TestCode.py for your own network or directly implement it in your model.
