@@ -6,7 +6,7 @@ This repository is a collection of sorted neural networks. It is licensed under 
 
 ## How do I use these?
 
-The models given are [tensorflow](https://www.tensorflow.org/) models. In each neural network, you will find a folder named FullModel. That folder is the [tensorflow](https://www.tensorflow.org/) model. You will also find a readme.txt, instructing how to use the model in detail, and a Test Code.py. The Test Code.py allows you to test the network. You need to have [python](https://www.python.org/) installed to run it and also get the dependencies mentioned in the readme.txt via [pip](https://pypi.org/project/pip/). Take help from the Test Code.py to implement the neural networks in your own project.
+The models given are [tensorflow](https://www.tensorflow.org/) models. In each neural network, you will find a folder named FullModel. That folder is the [tensorflow](https://www.tensorflow.org/) model. You will also find a readme.md, instructing how to use the model in detail, and a Test Code.py. The Test Code.py allows you to test the network. You need to have [python](https://www.python.org/) installed to run it and also get the dependencies mentioned in the readme.md via [pip](https://pypi.org/project/pip/). Take help from the Test Code.py to implement the neural networks in your own project.
 
 ## Specifications
 
